@@ -1,3 +1,5 @@
+autoclick
+
 # Prerequisites
 *.d
 
@@ -47,6 +49,4 @@
 *.cmd
 .tmp_versions/
 modules.order
-Module.symvers
-Mkfile.old
-dkms.conf
+Module.symvers Mkfile.old dkms.conf
